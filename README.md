@@ -23,6 +23,8 @@ This repository showcases a fully structured **Inventory Management Database Mod
 ### 🧩 ERD Diagrams
 - High-resolution ERD image(s) included for quick visual reference.
 - Helps in understanding table relationships, foreign keys, and schema flow.
+  <img width="1079" height="768" alt="image" src="https://github.com/user-attachments/assets/af1e25a6-4ede-4e20-bde2-bf2d6b14c272" />
+
 
 
 ## 💡 Use Cases
